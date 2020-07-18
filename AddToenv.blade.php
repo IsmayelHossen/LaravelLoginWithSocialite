@@ -1,4 +1,5 @@
-<!--from https://github.com/settings/applications/new.here create new api and generate client_id,client_secret -->
+<!--from https://github.com/settings/applications/new.here create new api and generate client_id,client_secret ,add home url,(callback/redirect url which included web.php file ) -->
+
 client_id=d3b6f24d28fcb434eadc
 client_secret=4b7ba762d4f7e578efa49d3e915d6076616cb4cd
 <!-- github end -->
